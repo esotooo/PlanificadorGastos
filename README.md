@@ -106,11 +106,11 @@ http://localhost:5173
 
 ### Vista Escritorio
 <p><em>Muestra la aplicación funcionando en pantalla de escritorio.</em></p>
-<img src="./img/propinasDesktop.gif" width="600" alt="Demo escritorio" />
+<img src="./img/gastosDesktop.gif" width="600" alt="Demo escritorio" />
 
 ### Vista Móvil
 <p><em>Muestra la aplicación funcionando en un dispositivo móvil, con diseño responsivo.</em></p>
-<img src="./img/propinasMobile%2017.35.11.gif" width="300" alt="Demo móvil" />
+<img src="./img/gastosMobile.gif" width="300" alt="Demo móvil" />
 
 ---
 
